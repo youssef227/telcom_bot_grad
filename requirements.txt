@@ -1,0 +1,22 @@
+pypdf
+langchain
+langchain_community
+langchain_text_splitters
+sentence_transformers
+tiktoken
+fastapi
+pydantic
+uvicorn
+requests
+python-dotenv
+peft
+torch
+streamlit
+transformers==4.30.0
+accelerate==0.27.0
+bitsandbytes==0.43.1
+Flask
+faiss-cpu  # or faiss-gpu if you have a compatible GPU
+PyPDF2
+gunicorn
+pillow
